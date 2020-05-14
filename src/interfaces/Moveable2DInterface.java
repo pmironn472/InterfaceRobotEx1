@@ -9,13 +9,7 @@ public interface Moveable2DInterface {
 
     boolean moveUp();
 
-    boolean moveDownRight();
 
-    boolean moveDownLeft();
-
-    boolean moveUpRight();
-
-    boolean moveUpLeft();
 
 
 }

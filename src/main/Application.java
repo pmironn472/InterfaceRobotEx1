@@ -19,7 +19,7 @@ public class Application {
         System.out.printf("Simple test passed %d%%\n", SimpleTest.runCase(IronManMark_32));
         System.out.println();
         System.out.println();
-        System.out.printf("Simple test passed %d%%\n", DiagonalWalkTest.diagonalWalkTest(IronManMark_32));
+        System.out.printf("Simple test passed %d%%\n", DiagonalWalkTest.diagonalWalkTest((CharlieRobot)IronManMark_32));
 
 
 

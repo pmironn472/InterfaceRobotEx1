@@ -97,23 +97,5 @@ public class AlphaRobot extends  AbstractRobot {
             return false;
     }
 
-    @Override
-    public boolean moveDownRight() {
-        return false;
-    }
 
-    @Override
-    public boolean moveDownLeft() {
-        return false;
-    }
-
-    @Override
-    public boolean moveUpRight() {
-        return false;
-    }
-
-    @Override
-    public boolean moveUpLeft() {
-        return false;
-    }
 }

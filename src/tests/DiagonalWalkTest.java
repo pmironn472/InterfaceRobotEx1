@@ -4,7 +4,7 @@ import robo.AbstractRobot;
 import robo.CharlieRobot;
 
 public class DiagonalWalkTest {
-    public static int diagonalWalkTest(AbstractRobot robot) {
+    public static int diagonalWalkTest(CharlieRobot robot) {
         int percentage = 0;
 
         robot.setY(50);
